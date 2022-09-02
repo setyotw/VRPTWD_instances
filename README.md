@@ -3,7 +3,7 @@ A set of problem instances for vehicle routing problem with drones and time wind
 Consists of 128 instances alongside 48 distributed instances (random, clustered, random-clustered).
 
 ## Usage
-* Microsoft excel
+* Microsoft Excel (.xlsx)
 
 ## Related works
 * [Kuo et al. (2022)](https://doi.org/10.1016/j.eswa.2021.116264)
