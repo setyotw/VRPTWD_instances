@@ -9,4 +9,4 @@ Consists of 128 instances alongside 48 distributed instances (random, clustered,
 * [Kuo et al. (2022)](https://doi.org/10.1016/j.eswa.2021.116264)
 
 ## License
-This software is licensed under the MIT License. See file LICENSE for more information.
+This software is licensed under the Creative Commons Legal Code CC0 1.0 Universal License. See file LICENSE for more information.
